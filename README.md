@@ -3,5 +3,5 @@
 - 📦 Containerize all the things! 
 - 🕓 Uptime is overrated 
 - 🐧 Linux all the way 
-- ⌨️ Favourite command: `sudo apt update && sudo apt upgrade`
+- ⌨️ Favourite command: `sl`
 - 💬 Ask me about Kubernetes 
